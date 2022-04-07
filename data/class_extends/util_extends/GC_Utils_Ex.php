@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'util/GC_Utils.php';
 
 /**
  * 各種ユーティリティクラス(拡張).

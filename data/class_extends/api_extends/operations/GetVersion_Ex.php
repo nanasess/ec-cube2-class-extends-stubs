@@ -28,7 +28,6 @@
  * @author EC-CUBE CO.,LTD.
  * @version $Id$
  */
-require_once CLASS_REALDIR . 'api/operations/GetVersion.php';
 
 class API_GetVersion_Ex extends API_GetVersion
 {

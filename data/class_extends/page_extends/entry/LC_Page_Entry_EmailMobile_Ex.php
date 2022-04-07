@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'pages/entry/LC_Page_Entry_EmailMobile.php';
 
 /**
  * 空メール会員登録(モバイル) のページクラス(拡張).

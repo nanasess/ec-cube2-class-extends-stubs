@@ -22,7 +22,6 @@
  */
 
 // {{{ requires
-require_once CLASS_REALDIR . 'pages/admin/ownersstore/LC_Page_Admin_OwnersStore_PluginHookPointList.php';
 
 /**
  * オーナーズストア：プラグイン管理 のページクラス(拡張).

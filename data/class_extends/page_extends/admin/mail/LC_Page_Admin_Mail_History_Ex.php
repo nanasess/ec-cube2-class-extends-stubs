@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'pages/admin/mail/LC_Page_Admin_Mail_History.php';
 
 /**
  * メール配信履歴 のページクラス(拡張).

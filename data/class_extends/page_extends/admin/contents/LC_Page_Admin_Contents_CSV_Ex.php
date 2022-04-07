@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'pages/admin/contents/LC_Page_Admin_Contents_CSV.php';
 
 /**
  * CSV 項目設定 のページクラス(拡張).

@@ -28,7 +28,6 @@
  * @author EC-CUBE CO.,LTD.
  * @version $Id$
  */
-require_once CLASS_REALDIR . 'api/SC_Api_Abstract.php';
 
 abstract class SC_Api_Abstract_Ex extends SC_Api_Abstract
 {

@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'graph/SC_Graph_Base.php';
 
 class SC_Graph_Base_Ex extends SC_Graph_Base
 {

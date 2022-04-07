@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'pages/contact/LC_Page_Contact_Complete.php';
 
 /**
  * お問い合わせ(完了ページ) のページクラス(拡張).

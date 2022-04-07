@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'plugin/SC_Plugin_Util.php';
 
 class SC_Plugin_Util_Ex extends SC_Plugin_Util
 {

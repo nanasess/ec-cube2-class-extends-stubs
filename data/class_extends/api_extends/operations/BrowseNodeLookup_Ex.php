@@ -28,7 +28,6 @@
  * @author EC-CUBE CO.,LTD.
  * @version $Id$
  */
-require_once CLASS_REALDIR . 'api/operations/BrowseNodeLookup.php';
 
 class API_BrowseNodeLookup_Ex extends API_BrowseNodeLookup
 {

@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'helper/SC_Helper_Kiyaku.php';
 
 /**
  * 会員規約を管理するヘルパークラス(拡張).

@@ -28,7 +28,6 @@
  * @author EC-CUBE CO.,LTD.
  * @version $Id$
  */
-require_once CLASS_REALDIR . 'api/operations/CartAdd.php';
 
 class API_CartAdd_Ex extends API_CartAdd
 {

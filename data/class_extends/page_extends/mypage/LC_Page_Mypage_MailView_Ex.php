@@ -21,7 +21,6 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-require_once CLASS_REALDIR . 'pages/mypage/LC_Page_Mypage_MailView.php';
 
 /**
  * 受注管理メール確認 のページクラス(拡張).
