@@ -1,0 +1,15 @@
+{
+    "name": "nanasess/ec-cube2-class-extends-stubs",
+    "type": "library",
+    "require-dev": {
+        "ec-cube2/ec-cube2": "*"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Kentaro Ohkouchi",
+            "email": "nanasess@fsm.ne.jp"
+        }
+    ],
+    "require": {}
+}
